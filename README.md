@@ -1,2 +1,2 @@
 # markdown-learning
-contain an introduction
+contain a introduction
